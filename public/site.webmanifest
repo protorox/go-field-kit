@@ -1,0 +1,17 @@
+{
+  "name": "GO Field Kit",
+  "short_name": "Field Kit",
+  "description": "Quick-access Pokemon GO event, raid, search string, and checklist companion.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f6f8f8",
+  "theme_color": "#087f90",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
